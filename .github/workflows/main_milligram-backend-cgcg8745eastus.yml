@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'milligram-backend-cgcg8745eastus'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6CAC38088D4642F782A631A30ECFF1AE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9E92BAFB3A004E25AC8763F2B619EE40 }}
